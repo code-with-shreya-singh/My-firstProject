@@ -1,0 +1,40 @@
+.Login {
+  text-align: center;
+  }
+  
+  .Navbar {
+      text-align: right;
+  }
+  .navbar li { 
+      display: inline-block;
+      padding:10px 95px;
+    
+  }
+  
+  .nav-bar-link{
+  color:pink;
+  text-decoration: none;
+  }
+  .nav-bar-link :hover {
+      color:rgb(166, 36, 36);
+  }
+
+
+
+.header{
+  background:blue;
+  height: 30px;
+
+}
+.header a{
+  align-content:center;
+  color:white;
+  margin:500px;
+}
+.ABC
+{
+  background:blue;
+}
+
+
+
